@@ -1,21 +1,39 @@
-# Swiss Army Knife
+## Wednesday, June 08
+Branch: `sak-0-create-react-app`
 
-## Setup (0-create-react-app)
-1. Run create-react-app (CRA).
-2. Go through CRA documentation
-    a. CSS modules
-    b. VSCode debugging; launch.json
-    c. Adding a router
-3. Install React Chrome or Firefox extension
-4. React concepts
-    a. What is React?
-        i. JS library to build UI, not web UI, just plain UIs.
-        ii. ReactDOM is what makes React works with the web whereas React Native
-            is what makes it work for native applications.
-5. Build some stuff
-    a. Build a header.
-    b. Create routes and pages for:
-        i. Calculator
-        ii. Gotta Swipe Them All
-        iii. Owner Review: Woof Edition
-        iv. Conway's Game of Life
+* Run create-react-app (CRA).
+* Install React Chrome or Firefox extension.
+* React concepts:
+    * What is React? ReactDOM? React Native?
+* Build some stuff:
+    * Add Bootstrap because I suck at designing but okay at CSS.
+    * Build a re-usable header.
+    * Add React Router; see CRA docs.
+    * Create routes and pages for:
+        * Calculator.
+        * Gotta Swipe Them All.
+        * Owner Review: Woof Edition.
+        * Conway's Game of Life.
+    * Talk about CSS modules.
+    * Show VSCode debugging tool.
+
+## Friday, June 10
+Branch: `sak-1-calculator`
+
+* Build out a calculator
+
+
+## Monday, June 13
+Branch: `sak-2-gotta-swipe-them-all`
+
+* Build out `Tinder: Pokemon Edition` called "Gotta Swipe Them All"
+
+## Wednesday, June 15
+Branch: `sak-3-owner-review-woof-edition`
+
+* Build out an app where dogs can give owner reviews called "Owner Review: Woof Edition"
+
+## Friday, June 17
+Branch: `sak-4-conways-game-of-life`
+
+* Build out Conways Game of Life.

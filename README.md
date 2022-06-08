@@ -1,22 +1,6 @@
 ## Wednesday, June 08
 Branch: `sak-0-create-react-app`
 
-* Run create-react-app (CRA).
-* Install React Chrome or Firefox extension.
-* React concepts:
-    * What is React? ReactDOM? React Native?
-* Build some stuff:
-    * Add Bootstrap because I suck at designing but okay at CSS.
-    * Build a re-usable header.
-    * Add React Router; see CRA docs.
-    * Create routes and pages for:
-        * Calculator.
-        * Gotta Swipe Them All.
-        * Owner Review: Woof Edition.
-        * Conway's Game of Life.
-    * Talk about CSS modules.
-    * Show VSCode debugging tool.
-
 ## Friday, June 10
 Branch: `sak-1-calculator`
 
